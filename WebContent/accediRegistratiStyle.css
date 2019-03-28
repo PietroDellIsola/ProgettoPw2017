@@ -1,0 +1,219 @@
+@media only screen and (min-width: 550px){
+
+#logo{
+	float: left;
+	width: 120px;
+	height: 60px;
+	margin-left:36%;
+	margin-top:4%;
+	
+}
+
+#ciak{
+	padding: 3%;
+	float: center;
+	margin-top:4%;
+	font-family: "Comic sans MS";
+	color: red;
+	font-size:380%;
+}
+
+#accediRegistrati{
+	float:left;
+	margin-top:-5%;
+	margin-left: 25%;
+	padding: 0.8%;
+	border-style: dashed;
+	border-size:1%;
+	border-color: #c0c0c0;
+	width:40%;
+}
+
+#accedi{
+	width:30%;
+	border-style: solid;
+	border-color:#c0c0c0;
+	padding:1%;
+	margin-left:30%;
+}
+
+#registrati{
+	width:30%;
+	border-style: solid;
+	border-color:#c0c0c0;
+	padding:1%;
+	margin-left:30%;
+}
+
+input{
+	padding:1.5%;
+	width:90%;
+	margin:2%;
+}
+
+button{
+	width:90%;
+	padding:1%;
+	margin: 2%;
+	background-color:#0080ff;
+	color:white;
+	font-size:100%;
+}
+
+#restaConnessoCheckbox{
+	margin-left:50%;
+	width:10%;
+}
+
+#f{
+	padding-top: 4%;
+	color: #808080;
+	float:left;
+	margin:2% 2% 2% 20%;
+	width:250px;
+	padding:2px;
+
+}
+
+#socialMediaButtons{
+	margin:3.2% 20% 2% 2%;
+	width:300px;
+	padding:2px;
+	float:right;
+}
+
+}
+
+
+
+@media only screen and (max-width: 549px){
+
+#logo{
+	float: left;
+	width: 120px;
+	height: 60px;
+	margin-left:2%;
+	margin-top:2%;
+	
+}
+
+#ciak{
+	padding: 1%;
+	float: center;
+	margin-top:2%;
+	font-family: "Comic sans MS";
+	color: red;
+	font-size:380%;
+}
+
+#accediRegistrati{
+	margin-left: 2% 2% 3% 2%;
+	padding: 0.4%;
+	border-style: dashed;
+	border-size:1%;
+	border-color: #c0c0c0;
+	width:80%;
+}
+
+#accedi{
+	width:80%;
+	border-style: solid;
+	border-color:#c0c0c0;
+	padding:1%;
+	margin-left:2%;
+}
+
+#registrati{
+	width:80%;
+	border-style: solid;
+	border-color:#c0c0c0;
+	padding:1%;
+	margin-left:2%;
+}
+
+input{
+	padding:1.5%;
+	width:90%;
+	margin:2%;
+}
+
+button{
+	width:90%;
+	padding:1%;
+	margin: 2%;
+	background-color:#0080ff;
+	color:white;
+	font-size:100%;
+}
+
+#restaConnessoCheckbox{
+	margin-left:50%;
+	width:10%;
+}
+
+#f{
+	padding-top: 4%;
+	color: #808080;
+	float:left;
+	margin:2% 2% 2% 2%;
+	width:250px;
+	padding:2px;
+
+}
+
+#socialMediaButtons{
+	margin:2% 2% 2% 2%;
+	width:300px;
+	padding:2px;
+	float:right;
+}
+
+}
+
+
+
+.messaggi{
+	font-size: small;
+	color:red;
+	text-align: center;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/*instagram*/
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+

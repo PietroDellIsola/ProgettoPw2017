@@ -1,0 +1,471 @@
+
+@media only screen and (min-width: 940px){
+html,body{
+	text-align: justify;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;    
+    width:90%;
+	margin-left:5%;
+	margin-right:5%;
+}
+
+
+#menuBar{
+	width: 100%;
+    height: 20%;
+    padding: 1%;
+    text-align: center;
+}
+
+ 
+ul#nav
+{ margin:0;
+  text-align: center; }
+
+ul#nav li
+{ 
+  list-style: none;
+  margin-left: 0.7%;
+  display: inline;
+  text-align: center;   
+  background: transparent;}
+
+ul#nav li a
+{ font: bold 110% Arial, Helvetica, sans-serif;
+  height: 10%;
+  margin-left: 0.8%;
+  margin-right: 0.8%;
+  text-shadow: 1px 1px #000;
+  padding: 1% 5% 1% 5%;
+  background: transparent; 
+  text-align: center;
+  color: #000;
+  text-shadow: 1px 1px #FFF;  
+  text-decoration: none;} 
+  
+ul#nav li.current a, ul#nav li:hover a
+{ text-shadow: 1px 1px #000;
+  color: #FFF;
+  background: #008000;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;}
+
+#socialMediaButtons{
+	margin:3.2% 10% 2% 2%;
+	width:300px;
+	padding:2px;
+	float:right;
+}
+
+#textLogoVideogiochi{
+	text-align:left;
+	margin-left:13%;
+	color:blue;
+	width:100px;
+	display: inline-block;
+	float:left;
+}
+
+#textLogoFilm{
+	text-align:right;
+	margin-right:20%;
+	color:green;
+	width:100px;
+	display: inline-block;
+	float:right;
+}
+
+#buttonLogoCategoriaVideogiochi{
+	flag:left;
+	background-color:white;
+	border-radius: 30%;
+	border: 1px solid greey;
+	margin:20% 0% 0% 23%;
+}
+
+#buttonLogoCategoriaFilm{
+	flag:rigth;
+	background-color:white;
+	border-radius:30%;
+	border: 1px solid greey;
+		
+}
+
+										}
+										
+@media only screen and (min-width: 835px)and (max-width: 939px){
+	html,body{
+	text-align: justify;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;    
+    width:100%;
+}
+
+
+#menuBar{
+	width: 100%;
+    height: 20%;
+    padding: 1%;
+    text-align: center;
+}
+
+ 
+ul#nav
+{ margin:0;
+  text-align: center; }
+
+ul#nav li
+{ 
+  list-style: none;
+  margin-left: 0.7%;
+  display: inline;
+  text-align: center;   
+  background: transparent;}
+
+ul#nav li a
+{ font: bold 110% Arial, Helvetica, sans-serif;
+  height: 10%;
+  margin-left: 0.8%;
+  margin-right: 0.8%;
+  text-shadow: 1px 1px #000;
+  padding: 1% 5% 1% 5%;
+  background: transparent; 
+  text-align: center;
+  color: #000;
+  text-shadow: 1px 1px #FFF;  
+  text-decoration: none;} 
+  
+ul#nav li.current a, ul#nav li:hover a
+{ text-shadow: 1px 1px #000;
+  color: #FFF;
+  background: #008000;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;}
+
+
+#textLogoVideogiochi{
+	text-align:left;
+	margin-left:13%;
+	color:blue;
+	width:100px;
+	display: inline-block;
+	float:left;
+}
+
+#textLogoFilm{
+	text-align:right;
+	margin-right:20%;
+	color:green;
+	width:100px;
+	display: inline-block;
+	float:right;
+}
+
+#socialMediaButtons{
+	margin:3.2% 10% 2% 2%;
+	width:300px;
+	padding:2px;
+	float:right;
+}
+
+#buttonLogoCategoriaVideogiochi{
+	flag:left;
+	background-color:white;
+	border-radius: 30%;
+	border: 1px solid greey;
+	margin:20% 0% 0% 23%;
+}
+
+#buttonLogoCategoriaFilm{
+	flag:rigth;
+	background-color:white;
+	border-radius:30%;
+	border: 1px solid greey;
+		
+}
+
+
+										  }
+
+@media only screen and (min-width: 650px) and (max-width: 834px){
+	html,body{
+	text-align: justify;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;    
+    width:100%;
+    }
+	
+	
+#menuBar{
+	width: 100%;
+    height: 20%;
+    padding: 1%;
+    text-align: center;
+}
+
+ 
+ul#nav
+{ margin:0;
+  text-align: center; }
+
+ul#nav li
+{ 
+  list-style: none;
+  display: inline;
+  text-align: center;   
+  background: transparent;}
+
+ul#nav li a
+{ font: bold 90% Arial, Helvetica, sans-serif;
+  height: 5%;
+  margin-left: 0.4%;
+  margin-right: 0.4%;
+  text-shadow: 1px 1px #000;
+  padding: 0.5% 4% 0.5% 4%;
+  background: transparent; 
+  text-align: center;
+  color: #000;
+  text-shadow: 1px 1px #FFF;  
+  text-decoration: none;} 
+  
+ul#nav li.current a, ul#nav li:hover a
+{ text-shadow: 1px 1px #000;
+  color: #FFF;
+  background: #008000;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;}
+
+#socialMediaButtons{
+	margin:0% 1% 1% 11%;
+	width:300px;
+	padding:2px;
+	float:left;
+}	
+	
+
+#textLogoVideogiochi{
+	display: none;
+}
+
+#textLogoFilm{
+	display: none;
+}
+
+#buttonLogoCategoriaVideogiochi{
+	flag:left;
+	background-color:white;
+	border-radius: 30%;
+	border: 1px solid greey;
+	margin-top:-40%;
+}
+
+#buttonLogoCategoriaFilm{
+	margin-top:-55%;
+	
+	flag:rigth;
+	background-color:white;
+	border-radius:30%;
+	border: 1px solid greey;
+		
+}
+
+										}
+										
+
+@media only screen and (max-width: 649px){
+	html,body{
+	text-align: justify;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;    
+    width:100%;
+    }
+	
+	
+#menuBar{
+	width: 100%;
+    height: 20%;
+    padding: 1%;
+    text-align: center;
+}
+
+ 
+ul#nav
+{ margin:0;
+  text-align: center; }
+
+ul#nav li
+{ 
+  list-style: none;
+  display: block;
+  text-align: center;   
+  background: transparent;}
+
+ul#nav li a
+{ font: bold 90% Arial, Helvetica, sans-serif;
+  height: 5%;
+  margin-left: 0.4%;
+  margin-right: 0.4%;
+  text-shadow: 1px 1px #000;
+  padding: 0.5% 4% 0.5% 4%;
+  background: transparent; 
+  text-align: center;
+  color: #000;
+  text-shadow: 1px 1px #FFF;  
+  text-decoration: none;} 
+  
+ul#nav li.current a, ul#nav li:hover a
+{ text-shadow: 1px 1px #000;
+  color: #FFF;
+  background: #008000;
+  border-radius: 7px 7px 7px 7px;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border: 7px 7px 7px 7px;}
+
+#socialMediaButtons{
+	margin:-10% 1% 1% 11%;
+	width:300px;
+	padding:2px;
+	float:left;
+}	
+	
+
+#textLogoVideogiochi{
+	display: none;
+}
+
+#textLogoFilm{
+	display: none;
+}
+
+
+#socialMediaButtons{
+	margin:6% 10% 2% 2%;
+	width:300px;
+	padding:2px;
+	float:ceter;
+}
+
+#buttonLogoCategoriaVideogiochi{
+	flag:left;
+	background-color:white;
+	border-radius: 30%;
+	border: 1px solid greey;
+	margin:20% 0% 0% 23%;
+}
+
+#buttonLogoCategoriaFilm{
+	flag:rigth;
+	background-color:white;
+	border-radius:30%;
+	border: 1px solid greey;
+		
+}
+
+
+										}
+
+
+#accediRegistrati{
+	padding: 0.8%;
+	border-style: solid;
+	border-size:1%;
+	border-color: #c0c0c0;
+	width:100%;
+}
+
+#logoProfilo{
+	float:right;
+	width:10%;
+	height:10%;
+}
+
+#carrello{
+	float:right;
+	 width:10%;
+	 height:10%;
+}
+
+#logo{
+	
+	width: 120px;
+	height: 50px;
+	float:left;
+	text-decoration: none;
+}
+
+#ciak{
+	margin-top:-20px;margin-left:130px;
+	width: 50px;
+	height: 50px;
+	font-family: "Comic sans MS";
+	color: red;
+	font-size:380%;
+	text-decoration: none;
+}
+
+
+#divLogoCategoriaVideogiochi{
+	 float:left;
+	 padding:6%";
+}
+
+#divLogoCategoriaFilm{
+	float:right;
+	padding:6%;
+}
+
+
+#f{
+	padding-top: 4%;
+	color: #808080;
+	float:left;
+	margin:2% 2% 2% 10%;
+	width:280px;
+	padding:2px;
+
+}
+
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/*instagram*/
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
