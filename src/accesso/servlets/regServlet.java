@@ -93,7 +93,7 @@ public class regServlet extends HttpServlet {
 
 			Class.forName("com.mysql.jdbc.Driver");
 			conn = DriverManager.getConnection(
-					"jdbc:mysql://localhost:3306/dbprogettopw", "root", "root"); // <== Check!
+					"jdbc:mysql://localhost:3306/dbprogettopw", "root", ""); // <== Check!
 			// database-URL(hostname, port, default database), username, password
 
 			// Step 2: Allocate a Statement object within the Connection
